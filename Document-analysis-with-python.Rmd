@@ -478,7 +478,7 @@ sentiment_classification = py$halliburton_predictions,
 sentiment_regression = py$halliburton_predictions_2
 )
 
-sentiment_prediction_tbl
+sentiment_predictions_tbl
 ```
 
 ## Which Paragraph are most Negative?
