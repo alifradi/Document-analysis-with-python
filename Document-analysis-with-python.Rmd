@@ -466,6 +466,7 @@ print("Linear Regression MAE:", metrics.mean_absolute_error(y_test, predicted_2)
 ```{python message = FALSE echo = FALSE}
 halliburton_predictions_2 = pipe_2.predict(df['paragraph_text'])
 halliburton_predictions_2
+
 ```
 
 # Visualization (Back to R)
